@@ -32,7 +32,6 @@ I possess a diverse set of skills related to [mention relevant skills or technol
 
 - Python
 - SQL
-- Postgresql
 - PowerBI
 - Autohotkey
 
